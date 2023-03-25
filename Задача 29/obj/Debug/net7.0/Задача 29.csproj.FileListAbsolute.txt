@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\Задания к семинару 4\Задача 29\obj\Debug\net7.0\Задача 29.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Задания к семинару 4\Задача 29\obj\Debug\net7.0\Задача 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Задания к семинару 4\Задача 29\obj\Debug\net7.0\Задача 29.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Задания к семинару 4\Задача 29\obj\Debug\net7.0\Задача 29.AssemblyInfo.cs
+C:\Users\admin\Desktop\Задания к семинару 4\Задача 29\obj\Debug\net7.0\Задача 29.csproj.CoreCompileInputs.cache
